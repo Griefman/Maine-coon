@@ -1666,7 +1666,7 @@ form input[type="radio"] {
 
 @media (max-width: 767px) {
   .care {
-    background-image: url("../img/bg-care-mobile@1x.jpg");
+    background-image: url("../img/bg-care-tablet@1x.jpg");
     background-size: cover;
   }
 }
